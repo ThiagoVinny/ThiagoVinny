@@ -7,5 +7,8 @@
 [![UNITY](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)]()
 [![FLASCK](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)]()
 
-![ThiagoVinny GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoVinny&show_icons=true&theme=dracula)
-    
+## 📊 Estatísticas do GitHub
+
+ ![ThiagoVinny GitHub stats](https://github-readme-stats.vercel.app/api?username=ThiagoVinny&show_icons=true&theme=dracula)  ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVinny&layout=compact&theme=dracula) 
+
+
