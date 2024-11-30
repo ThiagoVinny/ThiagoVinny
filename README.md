@@ -48,7 +48,7 @@ Check out my GitHub stats below!
 ## 📫 Connect with Me
 
 - GitHub: [ThiagoVinny](https://github.com/ThiagoVinny)
-- LinkedIn: [Thiago on LinkedIn](https://www.linkedin.com/in/seu-perfil)
+- LinkedIn: [https://www.linkedin.com/in/thiago-vinny-004721235?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 Feel free to explore my repositories and reach out if you want to collaborate on a project!
 
