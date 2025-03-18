@@ -22,9 +22,9 @@ Here are some of the technologies and tools I work with:
 
 Check out my GitHub stats below!
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoVinny&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVinny&layout=compact&langs_count=7&theme=dracula"/>
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ThiagoVinny&show_icons=true&theme=tokyonight&locale=pt-br">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoVinny&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=20" 
 </div>
 
 ---
